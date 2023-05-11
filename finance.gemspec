@@ -1,5 +1,5 @@
 SPEC = Gem::Specification.new do |s|
-  s.name = "finance_velocity"
+  s.name = "finance"
   s.version = "2.0.3"
   s.author = "Mani Bhushan"
   s.license = "LGPL-3.0"
